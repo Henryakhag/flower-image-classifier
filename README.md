@@ -7,26 +7,26 @@ The project is broken down into three main steps
 
 ##Important modules for this project include
 # Imports here
-%matplotlib inline
-%config InlineBackend.figure_format = 'retina'
-import torchvision
-import torch.nn.functional as F
-from torch.autograd import Variable
-import numpy as np
-import matplotlib.pyplot as plt
-import time
-import torch
-from collections import OrderedDict
-from torch import nn
-from torch import optim
-import torch.nn.functional as F
-from torchvision import datasets, transforms, models
-from PIL import Image
-import matplotlib.pyplot as plt
-import numpy as np
-from torch import nn
-import torch.utils.data 
-import pandas as pd
+#%matplotlib inline
+#%config InlineBackend.figure_format = 'retina'
+#import torchvision
+#import torch.nn.functional as F
+#from torch.autograd import Variable
+#import numpy as np
+#import matplotlib.pyplot as plt
+#import time
+#import torch
+#from collections import OrderedDict
+#from torch import nn
+#from torch import optim
+#import torch.nn.functional as F
+#from torchvision import datasets, transforms, models
+#from PIL import Image
+#import matplotlib.pyplot as plt
+#import numpy as np
+#from torch import nn
+#import torch.utils.data 
+#import pandas as pd
 #import helper
 import seaborn as sns
 
