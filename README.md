@@ -28,7 +28,7 @@ The project is broken down into three main steps
 #import torch.utils.data 
 #import pandas as pd
 #import helper
-import seaborn as sns
+#import seaborn as sns
 
 #Data Description
 The dataset is split into three parts, training, validation, and testing. For the training, transformations such as random scaling, cropping, and flipping were applies which helped the network generalize leading to better performance. Data input was resized to 224x224 pixels as required by the pre-trained networks.
